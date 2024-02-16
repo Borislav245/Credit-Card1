@@ -1,0 +1,121 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #202020;    
+  }
+  
+  .container {
+    max-width: 1300px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    width: 800px; 
+    height: 800px; 
+  }
+  
+  .black {
+    width: 800px; 
+    height: 800px; 
+    background-color: #202020;
+    position: absolute;
+    
+  }
+
+.karta {
+
+  position: relative;
+  left: 180px;
+  
+}
+
+.koulemali{
+  position: absolute;
+  top: 13px;
+  right: 250px;
+
+
+
+
+}
+
+.wifi{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+
+}
+
+.Veverka{
+  position: absolute;
+  top:3px;
+  left: 1px;
+  max-width: 400px;
+}
+
+
+
+
+
+.title {
+  position: relative;
+  right: -15px;
+  top: -100px;
+  color: white;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.not-bold {
+  color: white;
+  position: relative;
+  right: -16px;
+  top: -149px;
+  font-weight: normal;
+  white-space: nowrap;
+  font-size: 10px;
+}
+
+.second {
+  position: relative;
+  right: -13px;
+  top: -115px;
+  color: white;
+  font-weight: bold;
+  white-space: nowrap;
+  font-size: 10px;
+}
+
+.koa {
+  color: white;
+  position: relative;
+  right: -12px;
+  top: -152px;
+  font-weight: normal;
+  white-space: nowrap;
+  font-size: 10px;
+}
+
+.mae {
+  color: white;
+  position: relative;
+  right: -15px;
+  top: -265px;
+  font-weight: normal;
+  white-space: nowrap;
+  font-size: 10px;
+}
+
+.koule1{
+  position: relative;
+  top: -120px;
+  left: 670px;
+}
+
+.koule2{
+  position: relative;
+  left: 240px;
+}
+
+
